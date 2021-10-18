@@ -1,3 +1,5 @@
+# Program to print largest of three numbers.
+
 a=input('Enter first number :\n')
 b=input('Enter second number:\n')
 c=input('Enter third number:\n')
